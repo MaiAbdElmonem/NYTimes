@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  NYTimes
+
+  Created by BinaryBoy on 12/20/20.
+  
+*/
+
+// MARK: Errors
+"Common_GeneralError" = "There was an error";
+"Common_InternetError" = "No internet connection";
+
+// MARK: News
+"News_Title" = "News";
+"News_EmptyTitle" = "Sorry, theres no news";
+"News_EmptySubtitle" = "Please try again";

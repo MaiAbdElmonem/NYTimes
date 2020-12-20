@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17506" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="95" id="KGk-i7-Jjw" customClass="NewsShimmerTableViewCell" customModule="NYTimes" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="92"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="92"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="Yc8-Ow-VJN">
+                        <rect key="frame" x="139" y="13" width="165" height="66"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DOF-di-TZT">
+                                <rect key="frame" x="0.0" y="0.0" width="165" height="18.5"/>
+                                <color key="backgroundColor" red="0.91764705879999997" green="0.91764705879999997" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H86-d1-VI5">
+                                <rect key="frame" x="0.0" y="23.5" width="165" height="19"/>
+                                <color key="backgroundColor" red="0.91764705879999997" green="0.91764705879999997" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vlh-OB-vax">
+                                <rect key="frame" x="0.0" y="47.5" width="165" height="18.5"/>
+                                <color key="backgroundColor" red="0.91764705879999997" green="0.91764705879999997" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </view>
+                        </subviews>
+                    </stackView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F8i-7h-YB2">
+                        <rect key="frame" x="16" y="16" width="108" height="60"/>
+                        <color key="backgroundColor" red="0.91764705879999997" green="0.91764705879999997" blue="0.91764705879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="F8i-7h-YB2" secondAttribute="height" multiplier="9:5" id="3yn-6C-S5u"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="F8i-7h-YB2" secondAttribute="bottom" constant="16" id="4II-Ne-oQ5"/>
+                    <constraint firstAttribute="bottom" secondItem="Yc8-Ow-VJN" secondAttribute="bottom" constant="13" id="4Pt-HZ-ahy"/>
+                    <constraint firstItem="Yc8-Ow-VJN" firstAttribute="leading" secondItem="F8i-7h-YB2" secondAttribute="trailing" constant="15" id="5TH-e2-6YJ"/>
+                    <constraint firstItem="F8i-7h-YB2" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="16" id="7a1-SS-KHI"/>
+                    <constraint firstAttribute="trailing" secondItem="Yc8-Ow-VJN" secondAttribute="trailing" constant="16" id="DgR-hd-FB0"/>
+                    <constraint firstItem="F8i-7h-YB2" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="KR2-fS-4e8"/>
+                    <constraint firstItem="Yc8-Ow-VJN" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="13" id="Mdj-Gp-FVI"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <point key="canvasLocation" x="52.799999999999997" y="70.164917541229386"/>
+        </tableViewCell>
+    </objects>
+</document>
