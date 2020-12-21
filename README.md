@@ -34,7 +34,8 @@ pod install
 # UnitTest
 * I apply  **Arrange, Act and Assert (AAA) Pattern** in Unit Testing.
 
-#know Issues
+# know Issues
 * Not show Details for news when user tapped on cell
 * Not handle no internet connection
 * Not show loading at the begging of view controller till getting the data from API 
+* Make the Domain and Data layers as Targets will make the code cleaner and resuable 
