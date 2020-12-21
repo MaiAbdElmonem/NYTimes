@@ -23,6 +23,10 @@ class NewsViewController: BaseViewController {
         return tableView
     }()
 
+    private lazy var refreshControl: UIRefreshControl = {
+        let refreshControl = UIRefreshControl()
+        return refreshControl
+    }()
 
     init(_ viewModel: NewsViewModel) {
         self.viewModel = viewModel
@@ -50,6 +54,7 @@ class NewsViewController: BaseViewController {
     private func setupUI() {
         view.backgroundColor = .systemBackground
         view.addSubview(newsTableView)
+        newsTableView.addSubview(refreshControl)
         NSLayoutConstraint.activate([
             newsTableView.leadingAnchor.constraint(equalTo: view.leadingAnchor),
             newsTableView.trailingAnchor.constraint(equalTo: view.trailingAnchor),
@@ -84,6 +89,15 @@ class NewsViewController: BaseViewController {
 //                }
                 self.viewModel.goToDetail(indexPath.row)
             }).disposed(by: disposeBag)
+
+        refreshControl
+            .rx.controlEvent(UIControl.Event.valueChanged)
+                .subscribe(onNext: { [weak self] in
+                    guard let self = self else { return }
+                    self.viewModel.fetch()
+                    self.refreshControl.endRefreshing()
+                    }, onCompleted: nil, onDisposed: nil)
+                .disposed(by: disposeBag)
     }
 
     private func configureObservables() {
