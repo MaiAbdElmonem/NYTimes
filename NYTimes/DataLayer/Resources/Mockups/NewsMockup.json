@@ -1,0 +1,1259 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/8e44673d-5d3d-5646-838d-8db7d1f8af13",
+      "url": "https://www.nytimes.com/2020/12/13/us/politics/trump-allies-election-overturn-congress-pence.html",
+      "id": 100000007497420,
+      "asset_id": 100000007497420,
+      "source": "New York Times",
+      "published_date": "2020-12-13",
+      "updated": "2020-12-14 19:29:53",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Biden, Joseph R Jr;Trump, Donald J;Pence, Mike;Democratic Party;Republican Party;House of Representatives",
+      "column": null,
+      "byline": "By Nicholas Fandos and Michael S. Schmidt",
+      "type": "Article",
+      "title": "Trump Allies Eye Long-Shot Election Reversal in Congress, Testing Pence",
+      "abstract": "Some House Republicans plan to try to use Congress’s tallying of electoral results on Jan. 6 to tip the election to President Trump. The attempt will put Republicans in a pinch.",
+      "des_facet": [
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Pence, Mike"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ensuing fight promises to shape how President Trump’s base views the election for years to come.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/politics/13dc-overturn-1/merlin_181149501_545a5a52-9c27-44f3-891f-1caf1453f16a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d1c1b074-38a6-5896-a565-eca519420309",
+      "url": "https://www.nytimes.com/2020/12/13/world/americas/miriam-rodriguez-san-fernando.html",
+      "id": 100000007480884,
+      "asset_id": 100000007480884,
+      "source": "New York Times",
+      "published_date": "2020-12-13",
+      "updated": "2020-12-15 08:49:35",
+      "section": "World",
+      "subsection": "Americas",
+      "nytdsection": "world",
+      "adx_keywords": "Drug Cartels;Kidnapping and Hostages;Murders, Attempted Murders and Homicides;Extortion and Blackmail;Organized Crime;Politics and Government;Content Type: Personal Profile;Rodriguez Martinez, Miriam Elizabeth;Leal Garza, Luciano;San Fernando (Tamaulipas, Mexico);Mexico",
+      "column": null,
+      "byline": "By Azam Ahmed",
+      "type": "Article",
+      "title": "She Stalked Her Daughter’s Killers Across Mexico, One by One",
+      "abstract": "Armed with a handgun, a fake ID card and disguises, Miriam Rodríguez was a one-woman detective squad, defying a system where criminal impunity often prevails.",
+      "des_facet": [
+        "Drug Cartels",
+        "Kidnapping and Hostages",
+        "Murders, Attempted Murders and Homicides",
+        "Extortion and Blackmail",
+        "Organized Crime",
+        "Politics and Government",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+        "Rodriguez Martinez, Miriam Elizabeth",
+        "Leal Garza, Luciano"
+      ],
+      "geo_facet": [
+        "San Fernando (Tamaulipas, Mexico)",
+        "Mexico"
+      ],
+      "media": [
+
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3de96929-a13e-5349-8a20-862a15f6867f",
+      "url": "https://www.nytimes.com/2020/12/16/health/covid-pfizer-vaccine-allergic-reaction.html",
+      "id": 100000007506679,
+      "asset_id": 100000007506679,
+      "source": "New York Times",
+      "published_date": "2020-12-16",
+      "updated": "2020-12-20 16:32:05",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Allergies;Anaphylactic Shock;Emergency Medical Treatment;your-feed-healthcare;Pfizer Inc;Alaska",
+      "column": null,
+      "byline": "By Noah Weiland, Sharon LaFraniere, Mike Baker and Katie Thomas",
+      "type": "Article",
+      "title": "2 Alaska Health Workers Got Emergency Treatment After Receiving Pfizer’s Vaccine",
+      "abstract": "One of the workers, who did not have a history of allergies, remained in the hospital on Wednesday night. Some reactions to the vaccine were also reported last week in Britain.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Allergies",
+        "Anaphylactic Shock",
+        "Emergency Medical Treatment",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Pfizer Inc"
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+        "Alaska"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vaccines being prepared in Fargo, N.D., on Monday. The reaction was believed to be similar to the reactions two health workers in Britain experienced after receiving the Pfizer vaccine last week. They both recovered.",
+          "copyright": "Tim Gruber for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/science/16VIRUS-PFIZER/16VIRUS-PFIZER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/science/16VIRUS-PFIZER/16VIRUS-PFIZER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/science/16VIRUS-PFIZER/16VIRUS-PFIZER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/66ee1714-1b63-52be-a4de-4e630e1465a3",
+      "url": "https://www.nytimes.com/2020/12/12/us/jill-biden-doctor-wsj.html",
+      "id": 100000007500373,
+      "asset_id": 100000007500373,
+      "source": "New York Times",
+      "published_date": "2020-12-12",
+      "updated": "2020-12-13 15:45:29",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Women and Girls;Discrimination;Education;First Ladies (US);United States Politics and Government;Biden, Jill Tracy Jacobs;Epstein, Joseph;Wall Street Journal",
+      "column": null,
+      "byline": "By Michael Levenson",
+      "type": "Article",
+      "title": "An Opinion Writer Argued Jill Biden Should Drop the ‘Dr.’ (Few Were Swayed.)",
+      "abstract": "Many women said Joseph Epstein’s suggestion in The Wall Street Journal was blatantly sexist and underscored the way men often dismiss women’s credentials.",
+      "des_facet": [
+        "Women and Girls",
+        "Discrimination",
+        "Education",
+        "First Ladies (US)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Wall Street Journal"
+      ],
+      "per_facet": [
+        "Biden, Jill Tracy Jacobs",
+        "Epstein, Joseph"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jill Biden holds two master’s degrees and a doctorate in education from the University of Delaware.",
+          "copyright": "Eve Edelheit for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/merlin_179517294_609ce894-79f7-4fcb-a2bf-d374d5102d40-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/merlin_179517294_609ce894-79f7-4fcb-a2bf-d374d5102d40-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/lens/12xp-drbiden-photo/merlin_179517294_609ce894-79f7-4fcb-a2bf-d374d5102d40-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bf344478-ee14-51a9-8e0b-efe68d42e505",
+      "url": "https://www.nytimes.com/2020/12/11/arts/music/fka-twigs-shia-labeouf-abuse.html",
+      "id": 100000007482952,
+      "asset_id": 100000007482952,
+      "source": "New York Times",
+      "published_date": "2020-12-11",
+      "updated": "2020-12-13 22:10:23",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Suits and Litigation (Civil);Domestic Violence;Sex Crimes;#MeToo Movement;internal-storyline-no;FKA twigs;LaBeouf, Shia",
+      "column": null,
+      "byline": "By Katie Benner and Melena Ryzik",
+      "type": "Article",
+      "title": "FKA twigs Sues Shia LaBeouf, Citing ‘Relentless’ Abusive Relationship",
+      "abstract": "The lawsuit, filed in Los Angeles by the musician, accuses the actor of sexual battery, assault and infliction of emotional distress.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Domestic Violence",
+        "Sex Crimes",
+        "#MeToo Movement",
+        "internal-storyline-no"
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+        "FKA twigs",
+        "LaBeouf, Shia"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The musician FKA twigs, born Tahliah Debrett Barnett, filed a lawsuit in Los Angeles Superior Court that accuses the actor Shia LaBeouf of sexual battery, assault and infliction of emotional distress.",
+          "copyright": "Ana Cuba for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/arts/00suit1/00suit1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/arts/00suit1/00suit1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/arts/00suit1/00suit1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9fa90aa8-3a25-5284-84d4-b07fad97d038",
+      "url": "https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html",
+      "id": 100000007479053,
+      "asset_id": 100000007479053,
+      "source": "New York Times",
+      "published_date": "2020-12-04",
+      "updated": "2020-12-10 13:08:44",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Child Abuse and Neglect;Sex Crimes;Child Pornography;Video Recordings, Downloads and Streaming;Computers and the Internet;Women and Girls;Pornography;Human Trafficking;Regulation and Deregulation of Industry;Pornhub;MindGeek Sarl;Canada",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "The Children of Pornhub",
+      "abstract": "Why does Canada allow this company to profit off videos of exploitation and assault?",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Sex Crimes",
+        "Child Pornography",
+        "Video Recordings, Downloads and Streaming",
+        "Computers and the Internet",
+        "Women and Girls",
+        "Pornography",
+        "Human Trafficking",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Pornhub",
+        "MindGeek Sarl"
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+        "Canada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.",
+          "copyright": "Rachel Bujalski for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8b2dc3a5-58e2-566e-9433-a2dd22315e70",
+      "url": "https://www.nytimes.com/2020/12/13/sports/baseball/cleveland-indians-baseball-name-change.html",
+      "id": 100000007501385,
+      "asset_id": 100000007501385,
+      "source": "New York Times",
+      "published_date": "2020-12-13",
+      "updated": "2020-12-14 19:48:25",
+      "section": "Sports",
+      "subsection": "Baseball",
+      "nytdsection": "sports",
+      "adx_keywords": "Baseball;Mascots;Native Americans;Names, Organizational;Discrimination;Race and Ethnicity;Cleveland Indians;Major League Baseball",
+      "column": null,
+      "byline": "By David Waldstein and Michael S. Schmidt",
+      "type": "Article",
+      "title": "Cleveland’s Baseball Team Will Drop Its Indians Team Name",
+      "abstract": "The decision comes amid a wider push for sports teams to stop using Native American names and imagery as team names and mascots.",
+      "des_facet": [
+        "Baseball",
+        "Mascots",
+        "Native Americans",
+        "Names, Organizational",
+        "Discrimination",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [
+        "Cleveland Indians",
+        "Major League Baseball"
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shane Bieber won the 2020 American League Cy Young Award for Cleveland. The team already has uniform options that do not incorporate its former name.",
+          "copyright": "Aaron Doster/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/sports/13mlb-cleveland-subtop/13mlb-cleveland-subtop-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/sports/13mlb-cleveland-subtop/13mlb-cleveland-subtop-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/15/sports/13mlb-cleveland-subtop/13mlb-cleveland-subtop-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f89acc2-6a69-526e-995b-987d86d78ded",
+      "url": "https://www.nytimes.com/2020/12/16/movies/tom-cruise-covid.html",
+      "id": 100000007505926,
+      "asset_id": 100000007505926,
+      "source": "New York Times",
+      "published_date": "2020-12-16",
+      "updated": "2020-12-17 00:37:04",
+      "section": "Movies",
+      "subsection": "",
+      "nytdsection": "movies",
+      "adx_keywords": "Movies;Coronavirus (2019-nCoV);Cruise, Tom;Paramount Pictures;Sun, The (British Newspaper);London (England)",
+      "column": null,
+      "byline": "By Mike Ives",
+      "type": "Article",
+      "title": "Tom Cruise Erupts at ‘Mission: Impossible’ Crew Over Covid-19 Breach",
+      "abstract": "On a film set in Britain, the actor tore into the crew with an expletive-laden rant. Production of the blockbuster film had previously been delayed by the pandemic.",
+      "des_facet": [
+        "Movies",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Paramount Pictures",
+        "Sun, The (British Newspaper)"
+      ],
+      "per_facet": [
+        "Cruise, Tom"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tom Cruise, on the set of &ldquo;Mission: Impossible 7&rdquo; in Rome last month, took issue with crew members who broke coronavirus protocols.",
+          "copyright": "Riccardo Antimiani/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/world/16xp-virus-cruise/16xp-virus-cruise-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/world/16xp-virus-cruise/16xp-virus-cruise-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/world/16xp-virus-cruise/16xp-virus-cruise-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/237508c1-6f7c-5cee-b075-a49acd73a23e",
+      "url": "https://www.nytimes.com/2020/12/16/opinion/fireeye-solarwinds-russia-hack.html",
+      "id": 100000007507598,
+      "asset_id": 100000007507598,
+      "source": "New York Times",
+      "published_date": "2020-12-16",
+      "updated": "2020-12-20 12:15:28",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "US Federal Government Data Breach (2020);Cyberwarfare and Defense;Computer Security;Espionage and Intelligence Services;Falsification of Data;United States Politics and Government;Cybersecurity and Infrastructure Security Agency;Defense Department;SolarWinds;FireEye Inc;Russia;United States",
+      "column": null,
+      "byline": "By Thomas P. Bossert",
+      "type": "Article",
+      "title": "I Was the Homeland Security Adviser to Trump. We’re Being Hacked.",
+      "abstract": "The magnitude of this national security breach is hard to overstate.",
+      "des_facet": [
+        "US Federal Government Data Breach (2020)",
+        "Cyberwarfare and Defense",
+        "Computer Security",
+        "Espionage and Intelligence Services",
+        "Falsification of Data",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Cybersecurity and Infrastructure Security Agency",
+        "Defense Department",
+        "SolarWinds",
+        "FireEye Inc"
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+        "Russia",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Frank Augugliaro; flag: Wolfgang Deuter/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/18/opinion/sunday/18Bossert/18Bossert-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/18/opinion/sunday/18Bossert/18Bossert-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/18/opinion/sunday/18Bossert/18Bossert-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/223a6e71-d3ff-57f4-ab04-28896fce7460",
+      "url": "https://www.nytimes.com/2020/12/15/us/politics/mitch-mcconnell-congratulates-biden.html",
+      "id": 100000007504369,
+      "asset_id": 100000007504369,
+      "source": "New York Times",
+      "published_date": "2020-12-15",
+      "updated": "2020-12-15 19:27:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Nicholas Fandos and Luke Broadwater",
+      "type": "Article",
+      "title": "McConnell congratulates Biden and lobbies colleagues to oppose a final-stage G.O.P. effort to overturn his victory.",
+      "abstract": "",
+      "des_facet": [
+
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/92f661b1-f34b-5db3-bb2c-18cfb6bf1084",
+      "url": "https://www.nytimes.com/2020/12/11/us/politics/brian-kemp-georgia-trump.html",
+      "id": 100000007497440,
+      "asset_id": 100000007497440,
+      "source": "New York Times",
+      "published_date": "2020-12-11",
+      "updated": "2020-12-12 11:41:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Elections, Governors;Endorsements;United States Politics and Government;Kemp, Brian P;Ducey, Doug (1964- );Collins, Douglas A (1966- );Loeffler, Kelly L;Trump, Donald J;Republican Party;Georgia;Arizona",
+      "column": null,
+      "byline": "By Richard Fausset and Lisa Lerer",
+      "type": "Article",
+      "title": "Brian Kemp Cast His Lot With Trump, and Has Now Paid the Price",
+      "abstract": "Mr. Kemp rose to Georgia’s governorship with the help of President Trump, but his refusal to try to overturn the state’s election results has drawn Mr. Trump’s ire — and may affect his political future.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Elections, Governors",
+        "Endorsements",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Kemp, Brian P",
+        "Ducey, Doug (1964- )",
+        "Collins, Douglas A (1966- )",
+        "Loeffler, Kelly L",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Georgia",
+        "Arizona"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Gov. Brian Kemp of Georgia has taken pains to demonstrate his conservative credentials throughout his career.",
+          "copyright": "John Bazemore/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/00kemp-trump1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/merlin_180990471_0c6ed6d8-c711-4194-870f-8d9edb3bb227-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/11/us/politics/00kemp-trump1/merlin_180990471_0c6ed6d8-c711-4194-870f-8d9edb3bb227-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/01734ab5-2bb5-59e4-b37d-e77507a29c86",
+      "url": "https://www.nytimes.com/2020/12/16/us/politics/trump-mar-a-lago.html",
+      "id": 100000007507536,
+      "asset_id": 100000007507536,
+      "source": "New York Times",
+      "published_date": "2020-12-16",
+      "updated": "2020-12-17 22:11:41",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Organizations, Societies and Clubs;United States Politics and Government;Trump, Donald J;Mar-a-Lago (Palm Beach, Fla);Palm Beach (Fla)",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "A Glitch in Trump’s Plan to Live at Mar-a-Lago: A Pact He Signed Says He Can’t",
+      "abstract": "Neighbors of the president say he has violated the 1993 agreement he made with Palm Beach that allowed him to convert a private residence into a moneymaking club.",
+      "des_facet": [
+        "Organizations, Societies and Clubs",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Mar-a-Lago (Palm Beach, Fla)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Palm Beach (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A use agreement says no member of the president’s Mar-a-Lago club in Palm Beach, Fla., may stay on the property for more than 21 days a year.",
+          "copyright": "Saul Martinez for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/us/politics/16dc-maralago/16dc-maralago-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/us/politics/16dc-maralago/merlin_173990268_fd2fa0be-7c3e-48aa-b217-631d3e3b138e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/16/us/politics/16dc-maralago/merlin_173990268_fd2fa0be-7c3e-48aa-b217-631d3e3b138e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f2eacfd-8e36-5a3c-af25-1e05e66b4fd2",
+      "url": "https://www.nytimes.com/2020/12/12/us/4-stabbed-and-one-shot-as-trump-supporters-and-opponents-clash.html",
+      "id": 100000007500284,
+      "asset_id": 100000007500284,
+      "source": "New York Times",
+      "published_date": "2020-12-12",
+      "updated": "2020-12-13 21:40:30",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Demonstrations, Protests and Riots;Presidential Election of 2020;Voter Fraud (Election Fraud);Rumors and Misinformation;Right-Wing Extremism and Alt-Right;United States Politics and Government;Trump, Donald J;Supreme Court (US);Proud Boys;Olympia (Wash);Washington (DC);Atlanta (Ga)",
+      "column": null,
+      "byline": "By Hailey Fuchs, Pranshu Verma and Nicholas Bogel-Burroughs",
+      "type": "Article",
+      "title": "4 Stabbed and One Shot as Trump Supporters and Opponents Clash",
+      "abstract": "Supporters of the president in several cities said they were still convinced that the election was stolen, no matter what the courts say. Some confrontations with counterprotesters turned violent.",
+      "des_facet": [
+        "Demonstrations, Protests and Riots",
+        "Presidential Election of 2020",
+        "Voter Fraud (Election Fraud)",
+        "Rumors and Misinformation",
+        "Right-Wing Extremism and Alt-Right",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Proud Boys"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Olympia (Wash)",
+        "Washington (DC)",
+        "Atlanta (Ga)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Supporters of President Trump and counterdemonstrators clashed in Washington on Saturday.",
+          "copyright": "Stephanie Keith/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/12election-protest/12election-protest--thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/12election-protest/12election-protest--mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/12/us/12election-protest/12election-protest--mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/52e9bc8f-482a-5572-b565-9fefb066eca0",
+      "url": "https://www.nytimes.com/2020/12/13/us/politics/russian-hackers-us-government-treasury-commerce.html",
+      "id": 100000007501316,
+      "asset_id": 100000007501316,
+      "source": "New York Times",
+      "published_date": "2020-12-13",
+      "updated": "2020-12-18 08:28:47",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "US Federal Government Data Breach (2020);Cyberwarfare and Defense;Computer Security;United States Politics and Government;Presidential Election of 2020;Presidential Election of 2016;Espionage and Intelligence Services;Classified Information and State Secrets;Trump, Donald J;Commerce Department;Treasury Department;Homeland Security Department;National Security Agency;National Security Council;FireEye Inc;SolarWinds;National Telecommunications and Information Administration;Russia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Russian Hackers Broke Into Federal Agencies, U.S. Officials Suspect",
+      "abstract": "In one of the most sophisticated and perhaps largest hacks in more than five years, email systems were breached at the Treasury and Commerce Departments. Other breaches are under investigation.",
+      "des_facet": [
+        "US Federal Government Data Breach (2020)",
+        "Cyberwarfare and Defense",
+        "Computer Security",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Presidential Election of 2016",
+        "Espionage and Intelligence Services",
+        "Classified Information and State Secrets"
+      ],
+      "org_facet": [
+        "Commerce Department",
+        "Treasury Department",
+        "Homeland Security Department",
+        "National Security Agency",
+        "National Security Council",
+        "FireEye Inc",
+        "SolarWinds",
+        "National Telecommunications and Information Administration"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Treasury Department was one of the agencies targeted by the hackers.",
+          "copyright": "Patrick Semansky/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-hack/13dc-hack-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-hack/merlin_181209474_37c80834-47aa-4352-8f35-9532200f375b-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/us/politics/13dc-hack/merlin_181209474_37c80834-47aa-4352-8f35-9532200f375b-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7ff18cae-174e-5fd8-b244-62fc48ea1214",
+      "url": "https://www.nytimes.com/2020/12/16/us/politics/cdc-trump.html",
+      "id": 100000007489229,
+      "asset_id": 100000007489229,
+      "source": "New York Times",
+      "published_date": "2020-12-16",
+      "updated": "2020-12-18 14:18:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);United States Politics and Government;Presidential Election of 2020;McGowan, Kyle;Campbell, Amanda C;Trump, Donald J;Biden, Joseph R Jr;Centers for Disease Control and Prevention;Health and Human Services Department",
+      "column": null,
+      "byline": "By Noah Weiland",
+      "type": "Article",
+      "title": "‘Like a Hand Grasping’: Trump Appointees Describe the Crushing of the C.D.C.",
+      "abstract": "Kyle McGowan, a former chief of staff at the Centers for Disease Control and Prevention, and his deputy, Amanda Campbell, go public on the Trump administration’s manipulation of the agency.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "Health and Human Services Department"
+      ],
+      "per_facet": [
+        "McGowan, Kyle",
+        "Campbell, Amanda C",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“Every time that the science clashed with the messaging, messaging won,” said Kyle McGowan, a former chief of staff of the Centers for Disease Control and Prevention.",
+          "copyright": "Audra Melton for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/09/us/politics/00dc-virus-cdc-2/00dc-virus-cdc-2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e1719cd0-23c6-5cf4-b928-a163f6526cd4",
+      "url": "https://www.nytimes.com/2020/12/15/style/jeffrey-toobin-zoom.html",
+      "id": 100000007486798,
+      "asset_id": 100000007486798,
+      "source": "New York Times",
+      "published_date": "2020-12-15",
+      "updated": "2020-12-17 00:41:47",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Personal Profile;Indecency, Obscenity and Profanity;News and News Media;Toobin, Jeffrey;New Yorker;Conde Nast Publications Inc",
+      "column": null,
+      "byline": "By Katherine Rosman and Jacob Bernstein",
+      "type": "Article",
+      "title": "The Undoing of Jeffrey Toobin",
+      "abstract": "How a leading man of legal journalism lost his sweetest gig.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Indecency, Obscenity and Profanity",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "New Yorker",
+        "Conde Nast Publications Inc"
+      ],
+      "per_facet": [
+        "Toobin, Jeffrey"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo Illustration by The New York Times; Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/fashion/00toobin-topart/00toobin-topart-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/fashion/00toobin-topart/00toobin-topart-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/fashion/00toobin-topart/00toobin-topart-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/17a8c7ed-fcb1-5a87-9b22-1eaeb0c9c660",
+      "url": "https://www.nytimes.com/2020/12/17/briefing/stimulus-trump-mar-a-lago-pfizer-vaccine.html",
+      "id": 100000007508499,
+      "asset_id": 100000007508499,
+      "source": "New York Times",
+      "published_date": "2020-12-17",
+      "updated": "2020-12-17 06:23:26",
+      "section": "Briefing",
+      "subsection": "",
+      "nytdsection": "briefing",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By David Leonhardt",
+      "type": "Article",
+      "title": "51 Is Greater Than 1",
+      "abstract": "And what else you need to know today.",
+      "des_facet": [
+
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Pool photo by Rod Lamkey",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/us/17AMBRIEFING-promo/17AMBRIEFING-promo-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/us/17AMBRIEFING-promo/17AMBRIEFING-lede-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/17/us/17AMBRIEFING-promo/17AMBRIEFING-lede-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b1449d1-53e8-56a0-8e92-cd4e71386db9",
+      "url": "https://www.nytimes.com/2020/12/19/us/politics/trump-sidney-powell-voter-fraud.html",
+      "id": 100000007512544,
+      "asset_id": 100000007512544,
+      "source": "New York Times",
+      "published_date": "2020-12-19",
+      "updated": "2020-12-20 10:42:10",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Conspiracy Theories;Voter Fraud (Election Fraud);Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Powell, Sidney (Attorney);Giuliani, Rudolph W",
+      "column": null,
+      "byline": "By Maggie Haberman and Zolan Kanno-Youngs",
+      "type": "Article",
+      "title": "Trump Weighed Naming Election Conspiracy Theorist as Special Counsel",
+      "abstract": "In a meeting at the White House on Friday, President Trump weighed appointing Sidney Powell, who promoted conspiracy theories about rigged voting machines, to investigate voter fraud.",
+      "des_facet": [
+        "Conspiracy Theories",
+        "Voter Fraud (Election Fraud)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Powell, Sidney (Attorney)",
+        "Giuliani, Rudolph W"
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump has been in contact with Sidney Powell in recent days, even though his campaign last month sought to distance itself from her as she aired baseless claims about Dominion Voting Systems machines.",
+          "copyright": "Samuel Corum for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/19/us/politics/19dc-counsel/19dc-counsel-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/19/us/politics/19dc-counsel/merlin_181151838_4ea05865-4be6-46b8-bfa9-4caae1d57b85-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/19/us/politics/19dc-counsel/merlin_181151838_4ea05865-4be6-46b8-bfa9-4caae1d57b85-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e9395273-0faf-560d-8f48-f70c18849532",
+      "url": "https://www.nytimes.com/2020/12/14/well/live/covid-vaccine-questions.html",
+      "id": 100000007500391,
+      "asset_id": 100000007500391,
+      "source": "New York Times",
+      "published_date": "2020-12-14",
+      "updated": "2020-12-20 00:49:31",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Clinical Trials;Coronavirus Risks and Safety Concerns;your-feed-healthcare;Pfizer Inc;Moderna Inc",
+      "column": null,
+      "byline": "",
+      "type": "Article",
+      "title": "Answers to Your Questions About the New Covid Vaccines in the U.S.",
+      "abstract": "Vaccines are rolling out to health workers now and will reach the arms of the rest of us by spring. Here’s what you need to know.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Clinical Trials",
+        "Coronavirus Risks and Safety Concerns",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [
+        "Pfizer Inc",
+        "Moderna Inc"
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Pfizer-BioNTech Covid vaccines are prepared to be shipped at a Pfizer plant on Dec. 13, 2020 in Portage, Michigan.",
+          "copyright": "Pool photo by Morry Gash",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/well/Vaccine-QandA-photo/Vaccine-QandA-photo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/well/Vaccine-QandA-photo/merlin_181182675_ed6cfbcb-81c1-4160-ae09-95fc72c419ff-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/12/13/well/Vaccine-QandA-photo/merlin_181182675_ed6cfbcb-81c1-4160-ae09-95fc72c419ff-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bd8aca0f-81f3-560c-a1ca-20fbefd4af67",
+      "url": "https://www.nytimes.com/2020/12/13/science/geminid-meteor-shower.html",
+      "id": 100000007498616,
+      "asset_id": 100000007498616,
+      "source": "New York Times",
+      "published_date": "2020-12-13",
+      "updated": "2020-12-14 00:41:24",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Meteors and Meteorites;Content Type: Service",
+      "column": null,
+      "byline": "By Nicholas St. Fleur",
+      "type": "Article",
+      "title": "Geminids Meteor Shower 2020: Watch It Peak in Night Skies",
+      "abstract": "Meteor showers can light up night skies from dusk to dawn, and if you’re lucky you might be able to catch a glimpse.",
+      "des_facet": [
+        "Meteors and Meteorites",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+
+      ],
+      "per_facet": [
+
+      ],
+      "geo_facet": [
+
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A meteor from the Geminids streaking between the peaks of the Seven Sister rock formation in Nevada in 2010.",
+          "copyright": "Ethan Miller/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2017/07/19/science/space-calendar-geminids/space-calendar-geminids-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/07/19/science/space-calendar-geminids/space-calendar-geminids-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/07/19/science/space-calendar-geminids/space-calendar-geminids-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
