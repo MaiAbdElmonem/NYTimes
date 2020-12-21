@@ -39,3 +39,4 @@ pod install
 * Not handle no internet connection
 * Not show loading at the begging of view controller till getting the data from API 
 * Make the Domain and Data layers as Targets will make the code cleaner and resuable 
+* Remove Shimmer
