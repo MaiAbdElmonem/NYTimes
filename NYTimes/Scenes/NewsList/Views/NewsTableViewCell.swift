@@ -145,8 +145,11 @@ class NewsTableViewCell: UITableViewCell, CellReusable {
         titleLabel.text = uiModel.title
         subtitleLabel.text = uiModel.subtitle
         dateLabel.text = uiModel.date
+        subtitleLabel.isHidden = uiModel.subtitle.isEmpty ? true : false
         if let imageUrl = uiModel.imageUrl, let url = URL(string: imageUrl) {
             thumbnailImageView.setImage(url,placeholder: UIImage(named: "Logo"))
+        }else {
+            thumbnailImageView.image = UIImage(named: "Logo")
         }
     }
 }
